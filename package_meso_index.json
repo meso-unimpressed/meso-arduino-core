@@ -118,7 +118,7 @@
           "architecture": "samd",
           "version": "1.2.3",
           "category": "MESO",
-          "url": "https://poly.meso.net/skerutsch/meso-xim20-boards/blob/master/meso-1.2.3.tar.bz2",
+          "url": "https://poly.meso.net/skerutsch/meso-xim20-boards/raw/master/meso-1.2.3.tar.bz2",
           "archiveFileName": "meso-1.2.3.tar.bz2",
           "checksum": "SHA-256:bd8fdc888871196db3e1f35551badbd2de0139ed03823a1c1b152d0b27844f0b",
           "size": "23021424",
