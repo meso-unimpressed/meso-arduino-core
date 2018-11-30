@@ -120,8 +120,8 @@
           "category": "MESO",
           "url": "https://poly.meso.net/skerutsch/meso-xim20-boards/raw/master/meso-1.2.3.tar.bz2",
           "archiveFileName": "meso-1.2.3.tar.bz2",
-          "checksum": "SHA-256:bd8fdc888871196db3e1f35551badbd2de0139ed03823a1c1b152d0b27844f0b",
-          "size": "23021424",
+          "checksum": "SHA-256:e6e2d07e79ee40a13c1d0fd81ae7d1b8483682065f288925da68e153d5d8e113",
+          "size": "23047742",
           "help": {
             "online": "https://forums.adafruit.com"
           },
