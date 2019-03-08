@@ -118,7 +118,7 @@
           "architecture": "samd",
           "version": "1.2.4",
           "category": "MESO",
-          "url": "https://github.com/meso-unimpressed/meso-arduino-core/blob/master/meso-1.2.4.tar.bz2",
+          "url": "https://github.com/meso-unimpressed/meso-arduino-core/blob/master/meso-1.2.4.tar.bz2?raw=true",
           "archiveFileName": "meso-1.2.4.tar.bz2",
           "checksum": "SHA-256:d2cf7d50677f989d16a96ef8e6f82af9a87adbfc11e14e2e6b6bbb8bcead02c3",
           "size": "22967990",
