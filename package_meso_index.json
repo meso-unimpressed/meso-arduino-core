@@ -127,68 +127,95 @@
           },
           "boards": [
             {
-    "name": "Adafruit Metro M0 0"
-  },
-  {
-    "name": "Adafruit Metro M0 1"
-  },
-  {
-    "name": "Adafruit Metro M0 2"
-  },
-  {
-    "name": "Adafruit Metro M0 3"
-  },
-  {
-    "name": "Adafruit Metro M0 4"
-  },
-  {
-    "name": "Adafruit Metro M0 5"
-  },
-  {
-    "name": "Adafruit Metro M0 6"
-  },
-  {
-    "name": "Adafruit Metro M0 7"
-  },
-  {
-    "name": "Adafruit Metro M0 8"
-  },
-  {
-    "name": "Adafruit Metro M0 9"
-  },
-  {
-    "name": "Adafruit Metro M0 10"
-  },
-  {
-    "name": "Adafruit Metro M0 11"
-  },
-  {
-    "name": "Adafruit Metro M0 12"
-  },
-  {
-    "name": "Adafruit Metro M0 13"
-  },
-  {
-    "name": "Adafruit Metro M0 14"
-  },
-  {
-    "name": "Adafruit Metro M0 15"
-  },
-  {
-    "name": "Adafruit Metro M0 16"
-  },
-  {
-    "name": "Adafruit Metro M0 17"
-  },
-  {
-    "name": "Adafruit Metro M0 18"
-  },
-  {
-    "name": "Adafruit Metro M0 19"
-  },
-  {
-    "name": "Adafruit Metro M0 20"
-  }
+              "name": "Adafruit Trinket M0 0"
+            },
+            {
+              "name": "Adafruit Trinket M0 1"
+            },
+            {
+              "name": "Adafruit Trinket M0 2"
+            },
+            {
+              "name": "Adafruit Trinket M0 3"
+            },
+            {
+              "name": "Adafruit Trinket M0 4"
+            },
+            {
+              "name": "Adafruit Trinket M0 5"
+            },
+            {
+              "name": "Adafruit Trinket M0 6"
+            },
+            {
+              "name": "Adafruit Trinket M0 7"
+            },
+            {
+              "name": "Adafruit Trinket M0 8"
+            },
+            {
+              "name": "Adafruit Metro M0 0"
+            },
+            {
+              "name": "Adafruit Metro M0 1"
+            },
+            {
+              "name": "Adafruit Metro M0 2"
+            },
+            {
+              "name": "Adafruit Metro M0 3"
+            },
+            {
+              "name": "Adafruit Metro M0 4"
+            },
+            {
+              "name": "Adafruit Metro M0 5"
+            },
+            {
+              "name": "Adafruit Metro M0 6"
+            },
+            {
+              "name": "Adafruit Metro M0 7"
+            },
+            {
+              "name": "Adafruit Metro M0 8"
+            },
+            {
+              "name": "Adafruit Metro M0 9"
+            },
+            {
+              "name": "Adafruit Metro M0 10"
+            },
+            {
+              "name": "Adafruit Metro M0 11"
+            },
+            {
+              "name": "Adafruit Metro M0 12"
+            },
+            {
+              "name": "Adafruit Metro M0 13"
+            },
+            {
+              "name": "Adafruit Metro M0 14"
+            },
+            {
+              "name": "Adafruit Metro M0 15"
+            },
+            {
+              "name": "Adafruit Metro M0 16"
+            },
+            {
+              "name": "Adafruit Metro M0 17"
+            },
+            {
+              "name": "Adafruit Metro M0 18"
+            },
+            {
+              "name": "Adafruit Metro M0 19"
+            },
+            {
+              "name": "Adafruit Metro M0 20"
+            }
           ],
           "toolsDependencies": [
             {
