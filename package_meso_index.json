@@ -120,8 +120,8 @@
           "category": "MESO",
           "url": "https://github.com/meso-unimpressed/meso-arduino-core/releases/download/1.2.4/meso-1.2.4.tar.bz2",
           "archiveFileName": "meso-1.2.4.tar.bz2",
-          "checksum": "SHA-256:d2cf7d50677f989d16a96ef8e6f82af9a87adbfc11e14e2e6b6bbb8bcead02c3",
-          "size": "22967990",
+          "checksum": "SHA-256:eb98e5ebbbad0809a103c91c195cae513a4327dbe5819f51c8a8345afdf4f2fa",
+          "size": "23094415",
           "help": {
             "online": "https://forums.adafruit.com"
           },
