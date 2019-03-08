@@ -120,8 +120,8 @@
           "category": "MESO",
           "url": "https://poly.meso.net/di/meso-arduino-core/raw/master/meso-1.2.4.tar.bz2",
           "archiveFileName": "meso-1.2.4.tar.bz2",
-          "checksum": "SHA-256:e0626aa73512f7aa387be497f80465c9eb5eff4ef2041a6c31f774b8182e59d4",
-          "size": "22967421",
+          "checksum": "SHA-256:d2cf7d50677f989d16a96ef8e6f82af9a87adbfc11e14e2e6b6bbb8bcead02c3",
+          "size": "22967990",
           "help": {
             "online": "https://forums.adafruit.com"
           },
