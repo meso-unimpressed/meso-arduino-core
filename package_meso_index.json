@@ -116,12 +116,12 @@
         {
           "name": "MESO SAMD Boards",
           "architecture": "samd",
-          "version": "1.2.3",
+          "version": "1.2.4",
           "category": "MESO",
-          "url": "https://poly.meso.net/skerutsch/meso-xim20-boards/raw/master/meso-1.2.3.tar.bz2",
-          "archiveFileName": "meso-1.2.3.tar.bz2",
-          "checksum": "SHA-256:22e68ff664845d5c04d1e1341b8feba43da27661a870c41ca7866dbc43e0961b",
-          "size": "23047742",
+          "url": "https://poly.meso.net/di/meso-arduino-core/raw/master/meso-1.2.4.tar.bz2",
+          "archiveFileName": "meso-1.2.4.tar.bz2",
+          "checksum": "SHA-256:e0626aa73512f7aa387be497f80465c9eb5eff4ef2041a6c31f774b8182e59d4",
+          "size": "22967421",
           "help": {
             "online": "https://forums.adafruit.com"
           },
